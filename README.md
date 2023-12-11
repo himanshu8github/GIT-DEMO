@@ -1,2 +1,4 @@
 # GIT-DEMO
-This is my new git repo. AUTHOR-(HIMANSHU)
+This is my new git repo. 
+<br>
+AUTHOR-(HIMANSHU)
